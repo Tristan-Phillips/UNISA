@@ -1,0 +1,1 @@
+{"path":"Subjects/INF3707 - Database Design and Implementation/Unsorted/ADR/Diagrams/6-1 sequences.png","text":"CREATE SEQUENCE sequencename INCREMENT BY value START WITH value] {MAXVALUE value | NOMAXVALUE}] {MINVALUE value | NOMINVALUE}] {CYCLE | NOCYCLE}] {ORDER | NOORDER}] {CACHE value | NOCACHE}];","libVersion":"0.2.3","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"UNISA/98906 - BSc Science in Computing/INF3707 - Database Design and Implementation/Unsorted/ADR/Diagrams/4-2 alter table.png","text":"ALTER TABLE tablename ADD [CONSTRAINT constraintname] FOREIGN KEY (columnname) REFERENCES referencedtablename (referencedcolumnname);","libVersion":"0.2.3","langs":"eng"}

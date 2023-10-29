@@ -1,0 +1,1 @@
+{"path":"UNISA/98906 - BSc Science in Computing/INF3707 - Database Design and Implementation/Unsorted/ADR/Diagrams/5-2 modifying rows.png","text":"UPDATE tablename SET columnname = new_datavalue, .. [WHERE condition];","libVersion":"0.2.3","langs":"eng"}

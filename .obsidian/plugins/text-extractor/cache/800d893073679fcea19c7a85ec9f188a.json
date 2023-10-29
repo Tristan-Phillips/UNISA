@@ -1,0 +1,1 @@
+{"path":"Subjects/INF3707 - Database Design and Implementation/Unsorted/ADR/Additional Resources-20220329/Diagrams/7-3 sys priv.png","text":"GRANT systemprivilege [, systemprivilege, ..] T0 username|rolename [, username|rolename, ..] [WITH ADMIN OPTION] ;","libVersion":"0.2.3","langs":"eng"}

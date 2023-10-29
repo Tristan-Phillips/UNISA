@@ -1,0 +1,1 @@
+{"path":"UNISA/98906 - BSc Science in Computing/INF3707 - Database Design and Implementation/Unsorted/DataBase/Additional Resources-20220513/Diagrams/4-1 alter statement.png","text":"ALTER TABLE tablename ADD [CONSTRAINT constraintname] PRIMARY KEY (columnname);","libVersion":"0.2.3","langs":"eng"}

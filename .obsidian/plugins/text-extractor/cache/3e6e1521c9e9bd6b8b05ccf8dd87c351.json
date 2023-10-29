@@ -1,0 +1,1 @@
+{"path":"UNISA/98906 - BSc Science in Computing/INF3707 - Database Design and Implementation/Unsorted/INF 3707/Exams/2017-June-QuestionPaper.pdf","text":"CREATE TABLE employees_3 AS SELECT employees_id, fname,lname FROM employees; DELETE employees;","libVersion":"0.2.3","langs":""}

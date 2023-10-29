@@ -1,0 +1,1 @@
+{"path":"UNISA/98906 - BSc Science in Computing/COS3761 - Formal Logic III/Unsorted/COS3761/hornclause.png","text":"— Each clause must have: * NO negations * One implication ¢ The left hand side of implication: — can be one or more of (L | T | atom) separated by an AND ¢ The right hand side of implication: — must be one of (L | T | atom)","libVersion":"0.2.3","langs":"eng"}

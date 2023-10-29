@@ -1,0 +1,1 @@
+{"path":"Subjects/INF3707 - Database Design and Implementation/Unsorted/ADR/Additional Resources-20220329/Diagrams/11-1.png","text":"SELECT *|columnname, columnname.. FROM tablename [WHERE condition] [GROUP BY columnname, columnname..] [HAVING group condition];","libVersion":"0.2.3","langs":"eng"}
