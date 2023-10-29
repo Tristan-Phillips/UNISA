@@ -1,1 +1,0 @@
-{"path":"Subjects/COS3711 - Advanced Programming/Unsorted/Open Book Exam Files/regex.jpg","text":"// Validation // Name QRegularExpression name(\"[a-zA-Z]+\\\\s?[a-zA-Z]{2,}\"); QRegularExpressionValidator *nameValid(new QRegularExpressionValidator(name)); edtName->setValidator(nameValid); edtName->setMaxLength(25); // Post code","libVersion":"0.2.3","langs":"eng"}

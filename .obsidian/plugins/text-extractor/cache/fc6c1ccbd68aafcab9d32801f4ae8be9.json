@@ -1,1 +1,0 @@
-{"path":"UNISA/98906 - BSc Science in Computing/INF3707 - Database Design and Implementation/Unsorted/ADR/Diagrams/4-4 check statement.png","text":"ALTER TABLE tablename ADD [CONSTRAINT constraintname] CHECK (condition);","libVersion":"0.2.3","langs":"eng"}

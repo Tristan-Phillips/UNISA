@@ -1,1 +1,0 @@
-{"path":"UNISA/98906 - BSc Science in Computing/INF3707 - Database Design and Implementation/Unsorted/ADR/Diagrams/5-1 inserting rows.png","text":"INSERT INTO tablename [(columnname, ..)] VALUES (datavalue, ..);","libVersion":"0.2.3","langs":"eng"}

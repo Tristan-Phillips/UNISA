@@ -1,1 +1,0 @@
-{"path":"UNISA/98906 - BSc Science in Computing/INF3707 - Database Design and Implementation/Unsorted/ADR/Diagrams/7-2 grant priv.png","text":"GRANT {objectprivilege|ALL} [ (columnname), objectprivilege (columnname)) ON objectname TO {username|rolename|PUBLIC} [WITH GRANT OPTION];","libVersion":"0.2.3","langs":"eng"}

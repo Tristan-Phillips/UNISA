@@ -1,1 +1,0 @@
-{"path":"Subjects/INF3707 - Database Design and Implementation/Unsorted/DataBase/Additional Resources-20220513/Diagrams/select statements.png","text":"SELECT [DISTINCT | UNIQUE] (*, colummmame [ AS alias], .) FROM tablename [WHERE ~ condition] [GROUP BY group by_expression] [HAVING group_condition] [ORDER BY columnname];","libVersion":"0.2.3","langs":"eng"}
