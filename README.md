@@ -12,9 +12,9 @@ Subjects:
 
 - APM2613 - Numerical Methods 1
 - APM3711 - Numerical Methods 2
-- [Cos1501 - Theoretical Computer Science 1](Subjects/COS1501%20-%Theoretical%20Computer%20Science%201.html)
-- [COS1511 - Introduction to Programming 1](Subjects/COS1511%20-%20Introduction%20to%20Programming%20I/README.html)
-- [COS1512 - Introduction to Programming 2](Subjects/COS1512%20-%20Introduction%20to%20Programming%202/README.html)
+- [Cos1501 - Theoretical Computer Science 1](/Subjects/COS1501/Theoretical%20Computer%20Science%201.html)
+- COS1511 - Introduction to Programming 1
+- COS1512 - Introduction to Programming 2
 - COS1521 - Computer Systems Fundamental Concepts
 - COS2601 - Theoretical Computer Science 2
 - COS2611 - Programming Data Structures
@@ -25,7 +25,7 @@ Subjects:
 - COS3701 - Theoretical Computer Science 3
 - COS3711 - Advanced Programming
 - COS3721 - Operating Systems and Architecture
-- [COS3751 - Techniques of Artificial Intelligence](Subjects/COS3751%20-%20Techniques%20of%20Artificial%20Intelligence/README.html)
+- COS3751 - Techniques of Artificial Intelligence
 - COS3761 - Formal Logic 3
 - ICT2621 - Structured Systems Analysis and Design
 - ICT2622 - Object-Oriented Analysis
