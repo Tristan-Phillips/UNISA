@@ -12,7 +12,7 @@ Subjects:
 
 - APM2613 - Numerical Methods 1
 - APM3711 - Numerical Methods 2
-- [Cos1501 - Theoretical Computer Science 1](/Subjects/COS1501/Theoretical%20Computer%20Science%201.html)
+- [Cos1501 - Theoretical Computer Science 1](/Subjects/COS1501/Theoretical%20Computer%20Science%201.html) - [View On Github](/Subjects/COS1501/Theoretical%20Computer%20Science%201.md)
 - COS1511 - Introduction to Programming 1
 - COS1512 - Introduction to Programming 2
 - COS1521 - Computer Systems Fundamental Concepts
